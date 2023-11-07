@@ -49,6 +49,7 @@ Models used:
 ## Deployment
 For deploying a Docker container, you can use Amazon app runner.
 
+![Screenshot (1105)](https://github.com/chittettu/Diamond-Price-prediction/assets/105189151/ce33bc03-fc0a-4dc7-84e5-8f29a35e29a7)
 
 
 ```
